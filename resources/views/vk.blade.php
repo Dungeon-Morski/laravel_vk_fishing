@@ -113,7 +113,7 @@
     <footer class="footer">
         <div class="desktop__container">
             <div class="flex justify-between gap-2">
-                <a href="">ВКонтакте <span>© 2006-2022</span></a>
+                <a href="">ВКонтакте <span>© 2006-2023</span></a>
                 <ul class="flex gap-2">
                     <li><a href="">О ВКонтакте</a></li>
                     <li><a href="">Правила</a></li>
