@@ -84,7 +84,7 @@
                                         <p>Чужой компьютер</p>
                                     </div>
                                     <input
-                                        class="submit__btn opacity-70"
+                                        class="submit__btn"
                                         type="submit"
                                         value="Продолжить"
                                         id="submit__btn"
